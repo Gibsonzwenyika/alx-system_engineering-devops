@@ -1,0 +1,1 @@
+This project contains scripts which discribes different shell commands and their use.
