@@ -1,1 +1,1 @@
-this is my second project.
+This repository contains my system development projects.
